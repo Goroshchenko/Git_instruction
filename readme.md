@@ -23,3 +23,5 @@
 9.&ensp;[Другие действия с ветвями](other_actions.md)
 
 10.&ensp;[Несколько других полезных команд](some_useful_cmds.md)
+
+11.&ensp;[Глоссарий](glossary.md)
