@@ -1,6 +1,6 @@
 # *4. Работа с локальным репозиторием*
 
-![image](/images/structure.png)
+![structure](/images/structure.png)
 
 ## &emsp;
 
@@ -39,3 +39,5 @@ git commit -m «название»
 ```bash
 git clone https://github.com/Goroshchenko/Git_instruction.git
 ```
+
+[вернуться к оглавлению](readme.md)

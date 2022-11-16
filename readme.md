@@ -1,6 +1,6 @@
 <h1 align='center'> <strong>Инструкция по работе с Git</strong> </h1>
 
-![git_logo](./images/git_logo.png)
+![logo](./images/logo.png)
 
 ## *Оглавление*
 
