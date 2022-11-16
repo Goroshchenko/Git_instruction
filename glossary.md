@@ -1,5 +1,7 @@
 # *11. Глоссарий*
 
+![git+github](/images/git%2Bgithub.png)
+
 ## &nbsp;
 
 <ul>
